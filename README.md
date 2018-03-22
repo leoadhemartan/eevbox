@@ -37,11 +37,13 @@ Once vagrant confirms that your box is up and running, open http://ee.vm to conf
 ### ssh
 
 username: vagrant
+
 password: vagrant
 
 ### sftp
 
 username: www-data
+
 password: vagrant
 
 #### EasyEngine commands can be found at https://easyengine.io/
